@@ -139,8 +139,7 @@ Para el usuario promedio, las aplicaciones descentralizadas deben verse y  parec
 
 ### Notas al pie
 
-[^1]:
-Please note that similar terms, like Web 3.0, are used by other domains. They often refer to a more intelligent Web or semantic Web, including machine learning and AI, focusing on the convergence of several key emerging technologies. In the context of blockchain, the term is used by many in the scene to refer to a more decentralized Internet, and it is generally referred to as Web3 (not Web 3.0).
+[^1]: Por favor tener en cuenta que términos similares, como Web 3.0, son usados en otros ámbitos. Frecuentemente se refieren a una Internet más inteligente o semántica, incluyendo el aprendizaje automático y la inteligencia artificial, enfocándose en la convergencia de varias tecnologías emergentes relevantes. En el contexto de blockchain, el término es usado por muchos  para referirse a una Internet más descentralizada, y es generalmente utilizado como Web3 (no Web 3.0).
 
 [^2]:
 “Privacy by Design” refers to “data protection through technology design.” ([https://gdpr-info.eu/issues/privacy-by-design](https://gdpr-info.eu/issues/privacy-by-design/))
