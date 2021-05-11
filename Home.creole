@@ -1,84 +1,88 @@
-**Token Economia: Como a  Web3 está a reinventar a Internet**
+**ECONOMÍA DEL TOKEN: Cómo la Web3 reinventa la Internet**
+Segunda edición, Junio 2020 <br>
+La primera edición fue publicada por BlockchainHub Berlin en Junio de 2019 bajo el título “Token economy: How Blockchain & Smart Contracts revolutionize the Economy”, y tuvo dos ediciones enmendadas.<br>
 
 **Licence**
-
-Creative Commons CC-BY-NC-SA | https://creativecommons.org/licenses/by-nc-sa/4.0/
-
-This license allows reusers to distribute, remix, adapt, and build upon the material in any medium or format for **noncommercial purposes only**, and only so long as attribution is given to the creator. If you remix, adapt, or build upon the material, **you must license the modified material under identical terms**. For **commercial permissions contact:** hello@token.kitchen
+Creative Commons CC-BY-NC-SA | https://creativecommons.org/licenses/by-nc-sa/4.0/<br>
+Copyleft 2020, Shermin Voshmgir: Creative Commons - CC BY-NC-SA: Esta licencia permite a los usuarios distribuir, adaptar, combiner y desarrollar contenido sobre el material en cualquier medio o formato sólo para fines no comerciales, y siempre y cuando se atribuya la autoría al creador. Si adaptas, combinas o desarrollas sobre el material, debes licenciar el material modificado en idénticos términos. Para usos comerciales, contactar a: hello@token.kitchen
 
 ----
 **Tabela de Conteúdos**
 
-*[[Impressão]]
+*[[Edición]]
 
-*[[Acerca da Autora]]
+*[[Acerca de la Autora]]
 
 *[[Sobre os Tradutores]]
 
-*[[Acerca do Livro]]
+*[[Acerca del Libro]]
 
 *[[Nota de Tradução para Português (Europeu)]]
 
-*[[Como ler este livro]]
+*[[Cómo leer este Libro]]
 
-*[[Agradecimentos]]
+*[[Agradecimientos]]
 
-*[[Tabelas e Figuras]]
+*[[Introducción]]
 
-*[[Introdução]]
+*[[Cuadro & Figuras]]
 
-**[[Parte 1: Fundamentos Básicos da Web3]]**
+*[[Glosario de Palabras y Conceptos Nativos en inglés]]
 
-*[[Redes Tokenizadas: Web3, a Web de Estado]]
+**[[Parte 1: Conceptos básicos de la Web3]]**
 
-*[[Mantendo o registo dos Tokens: Bitcoin, Blockchain e outras ledgers distribuídas]]
+*[[Redes Tokenizadas: Web3, la red con estado]]
 
-*[[Segurança dos Tokens: Criptografia]]
+*[[Mantenimiento de un registro de Tokens:  Bitcoin, Blockchain y otros Registros Distribuidos]]
 
-*[[Quem Controla  os Tokens? Sistemas de Identidade Centradas no Utilizador]]
+*[[Seguridad del Token: Criptografía]]
 
-**[[Parte 2: Aplicações Web3]]
+*[[¿Quién Controla los Tokens? Sistemas de Identidad Centrada en el Usuario]]
 
-*[[Contractos Inteligentes]]**
+**[[Parte 2: Aplicaciones de la Web3]]
 
-*[[Economia Institucional de Redes Web3 e Outras DAOs]]
+*[[Economía Institucional de las Redes de Web3 & otras DAOs]]**
 
-*[[Governança de Redes Web3 e Outras DAOs]]
+*[[Economía Institucional de las DAOs]]
+
+*[[Gobernanza de las Redes de Web y de otras DAOs]]
 
 *[[Tokens]]
 
-**[[Parte 3: Token Economia & Finanças Descentralizadas]]**
+**[[Parte 3: La Economía del Token y las Finanzas Descentralizadas]]**
 
-*[[O Futuro do Dinheiro & Finanças Descentralizadas (DeFi)]]
+*[[El Futuro del Dinero y las Finanzas Descentralizadas (DeFi)]]
 
-*[[Tokens Estáveis]]
+*[[Stable Tokens]]
 
-*[[Tokens de Privacidade]]
+*[[Tokens de Privacidad]]
 
-*[[Comércio de Tokens, Swaps Atómicos & DEX]]
+*[[Intercambio Transaccional de Tokens, Atomic Swaps y DEX]]
 
-*[[Tokens de Financiamento - Sistemas de Crédito Descentralizados]]
+*[[Préstamo de Tokens - Sistemas de Crédito Descentralizado]]
 
-*[[Vendas de Tokens: ICOs, ITOs, IEOs, STOs]]
+*[[Venta de Tokens:  ICOs, ITOs,  IEOs, STOs]]
 
-**[[Parte 4: Casos de Uso de Token]]**
+**[[Parte 4: Casos de Uso de Tokens]]**
 
-*[[Activos Tokenizados & Propriedade Fraccionária]]
+*[[Tokens de Activos/Activos Tokenizados (Asset Tokens) y Dominio Fraccional]]
 
-*[[Tokens Orientados a um Propósito]]
+*[[Tokens Impulsados por un propósito (Purpose-driven Tokens)]]
 
-*[[Steemit, Hive & Reddit: Redes Sociais Tokenizadas]]
+*[[Steemit, Hive y Reddit: Redes Sociales Tokenizadas]]
 
-*[[Basic Attention Token: Publicidade Reinventada]]
+*[[Token de Atención Básica: la Publicidad Reinventada]]
 
-*[[Token Curated Registries - A Nova Busca?]]
+*[[Registros Curados de Token: ¿la nueva búsqueda?]]
 
-*[[Como Desenhar um Sistema Token]]
+*[[Cómo diseñar un Sistema de Token]]
 
 **[[Anexo]]**
 
-*[[Origens da Bitcoin & da Web3]]
+*[[Los orígenes de Bitcoin y la Web3]]
 
-*[[Soluções de Escalabilidade]]
+*[[Soluciones de escalabilidad]]
 
 *[[Libra & Celo]]
+
+*[[Perspectiva]]
