@@ -1,1 +1,17 @@
-Shermin Voshmgir es la fundadora de Token. Kitchen y BlockchainHub en Berlín. En el pasado, fue la directora del Instituto de Investigación en Criptoeconomía de la Universidad de Economía de Viena, fue curadora de TheDAO y asesora de varias startups de la Web3 tales como Jolocom, Wunder y también del programa de E-residencia de Estonia. Además de sus estudios en la Universidad de Economía de Viena, estudió cine y teatro en Madrid. Su experiencia laboral anterior incluye tanto startups en Internet como investigación en el Arte. Es Austríaca, con raíces iraníes, y vive en Viena y Berlín.
+ECONOMÍA DEL TOKEN: Cómo la Web3 reinventa la Internet
+
+Segunda edición, Junio 2020. La primera edición fue publicada por BlockchainHub Berlin en Junio de 2019 bajo el título “Token economy: How Blockchain & Smart Contracts revolutionize the Economy”, y tuvo dos ediciones enmendadas.  
+
+* Autora: Shermin Voshmgir 
+* Editor: Token Kitchen 
+* Alte Schönhauserstrasse 9, 10119 Berlin 
+* http://token.kitchen
+* Diseño: Justyna Zubrycka 
+* Producción: Caroline Helbing
+
+Copyleft 2020, Shermin Voshmgir
+
+Creative Commons - CC BY-NC-SA: Esta licencia permite a los usuarios distribuir, adaptar, combiner y desarrollar contenido sobre el material en cualquier medio o formato sólo para fines no comerciales, y siempre y cuando se atribuya la autoría al creador. Si adaptas, combinas o desarrollas sobre el material, debes licenciar el material modificado en idénticos términos. Para usos comerciales, contactar a: hello@token.kitchen
+
+ISBN livro: 
+Una versión e-book está disponible como ISBN: 
