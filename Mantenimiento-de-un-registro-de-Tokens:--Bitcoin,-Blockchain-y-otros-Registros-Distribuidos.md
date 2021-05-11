@@ -152,7 +152,7 @@ La Prueba-de-Trabajo de Bitcoin fue disruptiva, pero tiene su costo. Mientras qu
 
 * ¿Cómo se pueden alinear recursos naturales escasos (como electricidad y CPUs) con recursos de la red para prevenir a actores maliciosos que saturen el sistema con malos comportamientos ?
 
-*¿Cuáles son los riesgos de seguridad y los vectores de ataque?
+* ¿Cuáles son los riesgos de seguridad y los vectores de ataque?
 
 A pesar de que se está experimentando con muchos diferentes mecanismos de consenso, Prueba-de-Trabajo y Prueba-de-Participación (PdP) son actualmente los más utilizados. Sin embargo, es importante resaltar que las redes de blockchain que usan el mismo mecanismo general de consenso pueden tener diferentes especificaciones. Las redes de Bitcoin y Ethereum usan diferentes variaciones de Prueba-de-Trabajo. 
 
