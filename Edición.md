@@ -13,4 +13,5 @@ Copyleft 2020, Shermin Voshmgir
 Creative Commons - CC BY-NC-SA: Esta licencia permite a los usuarios distribuir, adaptar, combiner y desarrollar contenido sobre el material en cualquier medio o formato sólo para fines no comerciales, y siempre y cuando se atribuya la autoría al creador. Si adaptas, combinas o desarrollas sobre el material, debes licenciar el material modificado en idénticos términos. Para usos comerciales, contactar a: hello@token.kitchen
 
 ISBN livro: 
+
 Una versión e-book está disponible como ISBN: 
