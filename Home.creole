@@ -16,7 +16,7 @@ Esta licencia permite a los usuarios distribuir, adaptar, combiner y desarrollar
 
 *[[Acerca del Libro]]
 
-*[[Nota de Tradução para Português (Europeu)]]
+*[[Glosario de Palabras y Conceptos Nativos en inglés]]
 
 *[[Cómo leer este Libro]]
 
@@ -26,7 +26,7 @@ Esta licencia permite a los usuarios distribuir, adaptar, combiner y desarrollar
 
 *[[Cuadro & Figuras]]
 
-*[[Glosario de Palabras y Conceptos Nativos en inglés]]
+
 
 **[[Parte 1: Conceptos básicos de la Web3]]**
 
