@@ -95,10 +95,10 @@ Todas las entradas del registro sólo pueden leerse. Una vez que un bloque de tr
 
 Estos sitios de Internet dan información en tiempo real sobre cuánto cuesta en este momento atacar diferentes redes de blockchain con un llamado “ataque del 51%”. Una red de Prueba-de-Trabajo es segura mientras más del 50% del  trabajo sea hecho por mineros honestos. Un ataque del 51% ocurre cuando una sola persona o institución puede controlar  a la mayoría del poder de hash o poder computacional para manipular la red. En los 10 años de historia de Bitcoin, ninguna manipulación por parte de un atacante externo ha sido exitosa.
 
-_* _Herramienta online para verificar cuánto costaría atacar la red de Bitcoin: \
+* Herramienta online para verificar cuánto costaría atacar la red de Bitcoin: \
 [https://gobitcoin.io/tools/cost-51-attack/](https://gobitcoin.io/tools/cost-51-attack/)
 
-_* _Herramienta online para verificar cuánto costaría atacar diferentes redes de blockchain: \
+* Herramienta online para verificar cuánto costaría atacar diferentes redes de blockchain: \
  [https://www.crypto51.app/](https://www.crypto51.app/)
 
 Un ataque exitoso del 51% podría tener el siguiente impacto: te permitiría (i) cambiar bloques agregando o  borrando transacciones, lo que requiere una Prueba-de Trabajo adicional (mientras más antigua la transacción, más difícil el ataque); (ii) excluir participantes y transacciones hechas por tales participantes; (iii) hacer transacciones y luego revertirlas; y (iv) cambiar las reglas del protocolo.  
