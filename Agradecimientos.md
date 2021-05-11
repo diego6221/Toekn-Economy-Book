@@ -1,0 +1,6 @@
+Me gustaría expresar mi gratitud hacia unas pocas personas que me han inspirado o apoyado desde el inicio del viaje crypto, o que han contribuido con insumos y devoluciones a este libro: Peter Kaas, Valentin Kalinov, Alfred Taudes, Michael Zargham, Justyna Zubrycka, Caroline Helbing, Jakob Hackel, Kris Paruch, Susanne Guth, Guido Schäfer, Sofie Schock, Tom Fürstner, Robert Krimmer, Markus Sabadello y a todos los asesores y colaboradores del BlockchainHub, incluyendo a mis queridos amigos de Lunar Ventures en Berlín. Estoy también agradecida a todos los que apoyaron la creación del Laboratorio de Investigación en Criptoeconomía en la Universidad de Economía de Viena, y que creyeron en la necesidad de investigación  interdisciplinaria dedicada a este tópico.
+
+Estoy especialmente agradecida por la hospitalidad y el ambiente abierto de la oficina de Berlín de Ethereum, quienes nos dieron cobijo en su espacio de co-working al momento de lanzar el BlockchainHub,  y por la mente abierta de todas las personas involucradas en las actividades  “Post-TheDAO hack”, trabajando 24/7 para encontrar una forma de recuperar los fondos sustraídos, lo que me enseñó mucho sobre el desarrollo de software open source y la reparación de errores de programación en redes descentralizadas.
+
+Shermin Voshmgir \
+Junio  2020 
