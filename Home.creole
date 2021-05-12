@@ -34,7 +34,7 @@ Esta licencia permite a los usuarios distribuir, adaptar, combiner y desarrollar
 
 *[[Redes Tokenizadas: Web3, la red con estado]]
 
-*[[Mantenimiento de un registro de Tokens: Bitcoin, Blockchain y otros Registros Distribuidos]]
+*[[Mantenimiento de un registro de Tokens:  Bitcoin, Blockchain y otros Registros Distribuidos]]
 
 *[[Seguridad del Token: Criptografía]]
 
