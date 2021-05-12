@@ -38,7 +38,7 @@
 
 **Slashing:** concepto nativo del idioma ingles, que refiere a un mecanismo de incentivo propio de las DAOs, y el mismo implica la perdida del stake y el correspondiente reward de un minero por incumplir con el protocolo de consenso. Es en consecuencia una penalidad por una validación ineficiente o invalida en la red. 
 
-**Smart Contract: ** concepto nativo del idioma ingles, que refiere a Contrato Inteligente. A lo largo del libro es empleado indistintamente uno u otro concepto.  
+**Smart Contract:** concepto nativo del idioma ingles, que refiere a Contrato Inteligente. A lo largo del libro es empleado indistintamente uno u otro concepto.  
 
 **Stable Tokens:** concepto nativo del idioma ingles, que refiere a “Tokens Estables” y el mismo hace alusión a Tokens Criptograficos que se encuentran respaldados en una relación de X:Z por un tipo de activo real o financiero. 
 
