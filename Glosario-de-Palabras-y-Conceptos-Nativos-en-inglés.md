@@ -30,15 +30,15 @@
 
 **P2P:** acrónimo proveniente de un concepto nativo del idioma inglés, que refiere a “peer to peer transaction”, que traducido al castellano refiere a una operación directa entre pares. 
 
-**PoW: **acrónimo proveniente de un concepto nativo del idioma inglés, que refiere a “Proof of Work”, que traducido al castellano refiere a “Prueba de Trabajo” (PdT). En el libro se emplean indistintamente uno u otro concepto/acronomico
+**PoW:** acrónimo proveniente de un concepto nativo del idioma inglés, que refiere a “Proof of Work”, que traducido al castellano refiere a “Prueba de Trabajo” (PdT). En el libro se emplean indistintamente uno u otro concepto/acronomico
 
-**PoS: **acrónimo proveniente de un concepto nativo del idioma inglés, que refiere a “Proof of Stake”, que traducido al castellano refiere a “Prueba de Participación” (PdP). En el libro se emplean indistintamente uno u otro concepto/acronomico.
+**PoS:** acrónimo proveniente de un concepto nativo del idioma inglés, que refiere a “Proof of Stake”, que traducido al castellano refiere a “Prueba de Participación” (PdP). En el libro se emplean indistintamente uno u otro concepto/acronomico.
 
 **Proxy:** concepto nativo del idioma ingles, que refiere a un servidor que opera como intermediario dado que vincula al usuario final con la web page online. 
 
 **Slashing:** concepto nativo del idioma ingles, que refiere a un mecanismo de incentivo propio de las DAOs, y el mismo implica la perdida del stake y el correspondiente reward de un minero por incumplir con el protocolo de consenso. Es en consecuencia una penalidad por una validación ineficiente o invalida en la red. 
 
-**Smart Contract: **concepto nativo del idioma ingles, que refiere a Contrato Inteligente. A lo largo del libro es empleado indistintamente uno u otro concepto.  
+**Smart Contract: ** concepto nativo del idioma ingles, que refiere a Contrato Inteligente. A lo largo del libro es empleado indistintamente uno u otro concepto.  
 
 **Stable Tokens:** concepto nativo del idioma ingles, que refiere a “Tokens Estables” y el mismo hace alusión a Tokens Criptograficos que se encuentran respaldados en una relación de X:Z por un tipo de activo real o financiero. 
 
