@@ -37,30 +37,21 @@ Los contratos inteligentes y los registros  distribuidos también pueden ser un 
 Los contratos inteligentes pueden además ser usados para crear y gestionar tokens criptográficos que representan cualquier activo o derechos de acceso, y hasta incentivar comportamientos. Los tokens podrían convertirse en una de las aplicaciones más importantes de los contratos inteligentes, potencialmente revolucionando la gestión de activos tal como la conocemos hoy. Esta es la razón por la cual las últimas dos partes de este libro están dedicadas completamente al tópico de los tokens. 
 
 
-### Oráculos
+## Oráculos
 
 Las redes de blockchain y los contratos inteligentes no pueden acceder a datos que estén fuera de su red. Para saber qué hacer, los contratos inteligentes frecuentemente necesitan acceso a información del mundo analógico que es relevante para el acuerdo contractual, bajo formas de alimentación de datos, conocidas como “oráculos”. Estos oráculos son servicios que alimentan al contrato inteligente con información externa que puede disparar acciones predefinidas en el contrato inteligente, lo que a su vez induce cambios de estado en el registro. Estos datos externos provienen del software (aplicaciones de Big Data) o del hardware (Internet de las Cosas).
 
+> Oráculos de software: entregan información que se origina en fuentes  online, como la temperatura, el precio de acciones o commodities, horarios de arribo de vuelos o trenes, etc.
 
-#  \
-~ \
-Oráculos de software: entregan información que se origina en fuentes  online, como la temperatura, el precio de acciones o commodities, horarios de arribo de vuelos o trenes, etc.  \
-~ \
-Oráculos de hardware: algunos contratos inteligentes necesitan información directamente desde el mundo físico, como por ejemplo un auto cruzando una barrera en la que sensores de movimiento deben detectar el vehículo y enviar los datos a un contrato inteligente, o a un sensor RFID en la industria de las cadenas de suministro.  \
-~ 
+> Oráculos de hardware: algunos contratos inteligentes necesitan información directamente desde el mundo físico, como por ejemplo un auto cruzando una barrera en la que sensores de movimiento deben detectar el vehículo y enviar los datos a un contrato inteligente, o a un sensor RFID en la industria de las cadenas de suministro.
 
+> Oráculos entrantes: entregan datos que vienen del mundo analógico.
 
-# Oráculos entrantes: entregan datos que vienen del mundo analógico \
-~
+> Oráculos salientes: le otorgan a los contratos inteligentes la habilidad de enviar datos al mundo analógico.
 
+> Oráculos basados en el consenso: obtienen sus datos a través del consenso humano y mercados de predicciones como “Augur” o “Gnosis”. Sin embargo, usar sólo una fuente de información puede no ser confiable, dado que los mercados pueden ser manipulados; sistemas de rankeo de oráculos podrían ser necesarios. Una combinación de diferentes servicios de oráculos puede aumentar aún más la confiabilidad en los datos si, por ejemplo, tres de cinco oráculos pueden determinar el resultado de un evento.
 
-# Oráculos salientes: le otorgan a los contratos inteligentes la habilidad de enviar datos al mundo analógico. \
-~  \
- \
-Oráculos basados en el consenso: obtienen sus datos a través del consenso humano y mercados de predicciones como “Augur” o “Gnosis”. Sin embargo, usar sólo una fuente de información puede no ser confiable, dado que los mercados pueden ser manipulados; sistemas de rankeo de oráculos podrían ser necesarios. Una combinación de diferentes servicios de oráculos puede aumentar aún más la confiabilidad en los datos si, por ejemplo, tres de cinco oráculos pueden determinar el resultado de un evento \
-~
-
-El principal desafío con los oráculos es que la gente necesita confiar en estas fuentes externas de información, sea que vengan de un sitio de Internet o de un sensor. Como los oráculos son servicios prestados por terceros que no son parte del mecanismo de consenso de una blockchain, no están sujetos a los mecanismos subyacentes de seguridad que tienen estas infraestructuras públicas.  Uno podría recrear ataques de tipo “hombre en el medio” situándose entre contratos y oráculos.  Asegurar la robustez de esta  “segunda capa” de la máxima importancia. Diferentes herramientas criptográficas confiables y técnicas de computación pueden ser usadas para resolver estos problemas. Si la seguridad del oráculo no está garantizada adecuadamente, será un freno para la implementación masiva de los contratos inteligentes. 
+> El principal desafío con los oráculos es que la gente necesita confiar en estas fuentes externas de información, sea que vengan de un sitio de Internet o de un sensor. Como los oráculos son servicios prestados por terceros que no son parte del mecanismo de consenso de una blockchain, no están sujetos a los mecanismos subyacentes de seguridad que tienen estas infraestructuras públicas.  Uno podría recrear ataques de tipo “hombre en el medio” situándose entre contratos y oráculos.  Asegurar la robustez de esta  “segunda capa” de la máxima importancia. Diferentes herramientas criptográficas confiables y técnicas de computación pueden ser usadas para resolver estos problemas. Si la seguridad del oráculo no está garantizada adecuadamente, será un freno para la implementación masiva de los contratos inteligentes. 
 
 Es importante resaltar que un contrato inteligente no espera que los datos de una fuente externa comiencen a fluir al sistema. El contrato debe ser invocado, lo que significa que uno tiene que gastar recursos de la red para traer los datos del mundo analógico. Esto genera costos de transacción de la red. En el caso de Ethereum, este es el costo del “Gas”. 
 
