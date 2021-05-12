@@ -51,7 +51,7 @@ Las redes de blockchain y los contratos inteligentes no pueden acceder a datos q
 
 > Oráculos basados en el consenso: obtienen sus datos a través del consenso humano y mercados de predicciones como “Augur” o “Gnosis”. Sin embargo, usar sólo una fuente de información puede no ser confiable, dado que los mercados pueden ser manipulados; sistemas de rankeo de oráculos podrían ser necesarios. Una combinación de diferentes servicios de oráculos puede aumentar aún más la confiabilidad en los datos si, por ejemplo, tres de cinco oráculos pueden determinar el resultado de un evento.
 
-> El principal desafío con los oráculos es que la gente necesita confiar en estas fuentes externas de información, sea que vengan de un sitio de Internet o de un sensor. Como los oráculos son servicios prestados por terceros que no son parte del mecanismo de consenso de una blockchain, no están sujetos a los mecanismos subyacentes de seguridad que tienen estas infraestructuras públicas.  Uno podría recrear ataques de tipo “hombre en el medio” situándose entre contratos y oráculos.  Asegurar la robustez de esta  “segunda capa” de la máxima importancia. Diferentes herramientas criptográficas confiables y técnicas de computación pueden ser usadas para resolver estos problemas. Si la seguridad del oráculo no está garantizada adecuadamente, será un freno para la implementación masiva de los contratos inteligentes. 
+El principal desafío con los oráculos es que la gente necesita confiar en estas fuentes externas de información, sea que vengan de un sitio de Internet o de un sensor. Como los oráculos son servicios prestados por terceros que no son parte del mecanismo de consenso de una blockchain, no están sujetos a los mecanismos subyacentes de seguridad que tienen estas infraestructuras públicas.  Uno podría recrear ataques de tipo “hombre en el medio” situándose entre contratos y oráculos.  Asegurar la robustez de esta  “segunda capa” de la máxima importancia. Diferentes herramientas criptográficas confiables y técnicas de computación pueden ser usadas para resolver estos problemas. Si la seguridad del oráculo no está garantizada adecuadamente, será un freno para la implementación masiva de los contratos inteligentes. 
 
 Es importante resaltar que un contrato inteligente no espera que los datos de una fuente externa comiencen a fluir al sistema. El contrato debe ser invocado, lo que significa que uno tiene que gastar recursos de la red para traer los datos del mundo analógico. Esto genera costos de transacción de la red. En el caso de Ethereum, este es el costo del “Gas”. 
 
@@ -134,7 +134,7 @@ Con el surgimiento del proyecto Ethereum, el término “contrato inteligente”
 * Voshmgir, Shermin: “Smart Contracts, Blockchains und automatisch ausführbare Protokolle”, in: Braegelmann/Kaulartz (Hg.): Rechtshandbuch Smart Contracts, CH Beck Verlag, p. 13-27.
 * Zhang, F., Cecchetti, E., Croman, K., Juels, A., Shi, E.: “Town Crier: An Authenticated Data Feed for Smart Contracts”, Published by ACM 2016, Published in: Proceeding CCS ‚16 Proceedings of the 2016, ACM SIGSAC Conference on Computer and Communications Security Pages 270-282: https://eprint.iacr.org/2016/168.pdf
 * Cardano: https://www.cardano.org/en/home/
-* Bernstein: https://www.bernstein.io/
+* Bernstein: https://www.bernstein.io/ 
 * EOS: https://eos.io/
 * Kleros: https://kleros.io/
 * Open Bazaar: https://openbazaar.org/
