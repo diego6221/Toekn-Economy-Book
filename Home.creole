@@ -42,9 +42,9 @@ Esta licencia permite a los usuarios distribuir, adaptar, combiner y desarrollar
 
 **[[Parte 2: Aplicaciones de la Web3]]
 
-*[[Economía Institucional de las Redes de Web3 & otras DAOs]]**
+*[[Contratos Inteligentes]]
 
-*[[Economía Institucional de las DAOs]]
+*[[Economía Institucional de las Redes de Web3 & otras DAOs]]**
 
 *[[Gobernanza de las Redes de Web y de otras DAOs]]
 
