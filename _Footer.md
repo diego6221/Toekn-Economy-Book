@@ -1,5 +1,5 @@
 ECONOMÍA DEL TOKEN: Cómo la Web3 reinventa la Internet<br>
-Segunda edición, Junio 2020. La primera edición fue publicada por BlockchainHub Berlin en Junio de 2019 bajo el título “Token economy: How Blockchain & Smart Contracts revolutionize the Economy”, y tuvo dos ediciones enmendadas. <br>
+Segunda edición, Junio 2020. La primera edición fue publicada por BlockchainHub Berlin en Junio de 2019 bajo el título “Token Economy: How Blockchain & Smart Contracts revolutionize the Economy”, y tuvo dos ediciones enmendadas. <br>
 
 
 **Autora**: Shermin Voshmgir<br>
