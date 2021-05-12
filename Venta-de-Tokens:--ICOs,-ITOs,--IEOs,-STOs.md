@@ -1,30 +1,4 @@
-<!-- Output copied to clipboard! -->
-
-<!-----
-NEW: Check the "Suppress top comment" option to remove this info from the output.
-
-Conversion time: 3.67 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β29
-* Wed May 12 2021 03:49:39 GMT-0700 (PDT)
-* Source doc: Token Economy (Spanish Edition) - Final (1)
-* This is a partial selection. Check to make sure intra-doc links work.
------>
-
-
-
-# En una venta de tokens, se usan contratos inteligentes  para crear tokens criptográficos en contraprestación por tokens existentes, de manera  totalmente P2P. A diferencia de los tokens nativos de protocolo que son acuñados cuando se mina exitosamente un bloque (Prueba-de-Trabajo), por contribuciones individuales en beneficio de la red para mantenerla segura, en la venta de tokens se introduce un mecanismo estático para emitir tokens contra una comisión financiera directa, frecuentemente incluso antes de que el proyecto esté operativo \
-~
+> _**En una venta de tokens, se usan contratos inteligentes  para crear tokens criptográficos en contraprestación por tokens existentes, de manera  totalmente P2P. A diferencia de los tokens nativos de protocolo que son acuñados cuando se mina exitosamente un bloque (Prueba-de-Trabajo), por contribuciones individuales en beneficio de la red para mantenerla segura, en la venta de tokens se introduce un mecanismo estático para emitir tokens contra una comisión financiera directa, frecuentemente incluso antes de que el proyecto esté operativo.**_
 
 Las ventas de token permiten crear tokens criptográficos intercambiados por tokens existentes, de manera totalmente P2P. Se hicieron populares con el surgimiento de la red Ethereum. Cualquiera puede emitir y vender tokens con un smart contract. Estas primeras ventas de tokens fueron bautizadas como Initial Coin Offerings (ICOs), pero a medida que el  término “token” se volvió más central, los ofrecimientos de tokens o ITOs (Initial Token Offerings), y en el caso específico de títulos valores, STOs (Security Token Offering), se volvieron los términos del momento. La idea central de estas ventas de tokens era fondear nuevos proyectos mediante la pre-venta de tokens a los interesados. Estos tokens normalmente serían intercambiados por BTC o ETH, dado que ambos tokens ofrecen gran liquidez de mercado y son más fáciles de intercambiar por dinero fiduciario. A diferencia de  las muy reguladas  Ofertas Públicas de Acciones (IPOs), muchos de los primeros ICOs fueron realizados sin abogados, intermediarios financieros o aprobación regulatoria, y por ello eran más parecidos al crowdfunding. Los primeros interesados eran generalmente crypto-entusiastas más que inversores profesionales. Con el paso del tiempo, inversores profesionales se interesaron en estas ventas de tokens por los altos rendimientos que eran posibles en el mercado alcista de 2015 a 2017.
 
