@@ -4,9 +4,7 @@ Mientras que la red de blockchain y otras redes de registro distribuido (DLT), p
 
 Para los usuarios, el intercambio comercial de un token por otro puede ser dificultoso y consumir tiempo, dependiendo de la popularidad y el estatus legal de un token en particular. Los tokens menos populares y más controvertidos pueden solo ser listados en pequeños Exchange con limitado emparejamiento de tokens, lo que significa que esos usuarios necesitarán (i) registrarse en muchos de esos mercados y (ii) intercambiar tokens muchas veces antes de estar habilitados para comprar el token de su interés. Incluso si muchos tokens están listados en el mismo mercado, el apareamiento de tokens o incluso el emparejamiento de tokens con moneda fiduciaria, es muchas veces limitado. Como resultado de esto, el intercambio comercial de tokens muy a menudo suele consumir mucho tiempo y resulta costoso. A veces, los tokens con “mejor reputación” son listados en un mercado solo para forzar a los usuarios a comercializarlo en ese mercado que de otra manera no hubieran usado. Los compradores potenciales 
 
-Token Exchanges get to decide whether they include a token or not. They have become the market makers and new gatekeepers in this emerging tokenized economy. In August 2016, for example, when the Ethereum network performed the controversial hard fork as a result of TheDAO exploit,[^1] the shorter Ethereum chain (“Ethereum Classic”) did not have any market value. However, when[ “Poloniex](https://poloniex.com/),” an online Exchange, decided to list the “Ethereum Classic” token, the market dynamics changed and other Exchanges started listing the token too. While it was not the first time that there was a fork in a blockchain network, it was the first time the token of a minority chain was listed on an Exchange, giving the network an economic value.
-
-Los mercados de tokens tienen el poder de decidir cuándo incluir un token o no. Se han convertido en los “market makers” y en el nuevo guardián de esta economía tokenizada emergente. Por ejemplo, en agosto de 2016, cuando la red de Ethereum ejecutó el tan controvertido “hard fork” como resultado de la explosión de TheDAO[^3], la cadena de Ethereum más corta (“Ethereum Classic”) no tenía ningún valor de mercado. Sin embargo, cuando “Poloniex”, un mercado online, decidió listar el token de “Ethereum Classic” la dinámica de mercado cambio y otros mercados también comenzaron a empezar a listar el token. Si bien no fue la primera vez que se daba un “fork” en una red de blockchain, si fue la primera vez que un token de una cadena minoritaria fue listado en un Exchange confiriendo a la red un valor económico. 
+Los mercados de tokens tienen el poder de decidir cuándo incluir un token o no. Se han convertido en los “market makers” y en el nuevo guardián de esta economía tokenizada emergente. Por ejemplo, en agosto de 2016, cuando la red de Ethereum ejecutó el tan controvertido “hard fork” como resultado de la explotación de TheDAO[^1], la cadena de Ethereum más corta (“Ethereum Classic”) no tenía ningún valor de mercado. Sin embargo, cuando “Poloniex”, un mercado online, decidió listar el token de “Ethereum Classic” la dinámica de mercado cambio y otros mercados también comenzaron a empezar a listar el token. Si bien no fue la primera vez que se daba un “fork” en una red de blockchain, si fue la primera vez que un token de una cadena minoritaria fue listado en un Exchange confiriendo a la red un valor económico. 
 
 ## Desafios de los Exchange Centralizados
 
@@ -67,6 +65,8 @@ Para que los Exchanges descentralizados lleguen a una adopción convencional, a�
 > Un Exchange completamente descentralizado haría uso de los Atomic Swaps, o métodos similares, con el agregado de una capa de barrido y descubrimiento,  que permita el intercambio comercial entre dos tenedores de tokens aleatorios y desconocidos quienes podrían vivir en diferentes países e incluso no tendrían otra forma de encontrarse uno a otros de no ser por el algoritmo del Exchange.
 
 
+***
+
 ### Referencias del Capítulo y Lectura Complementaria.  
 
 * Borkowski, Michael; McDonald, Daniel; Ritzer, Christoph; Schulte, Stefan: “Towards Atomic Cross-Chain Token Transfers: State of the Art and Open Questions within TAST”, Pantos GmbH Vienna, May 2018, revised version 1.2, August 2018, retrieved from: https://www.dsg.tuwien.ac.at/projects/tast/pub/tast-white-paper-1.pdf
@@ -91,14 +91,9 @@ Para que los Exchanges descentralizados lleguen a una adopción convencional, a�
 * WavesDex: https://wavesplatform.com/products-exchange
 
 
+***
 
-### 
-Notas al pie
+### Notas al pie
 
 [^1]:
-[^2]:
-[^3]:
 Una vulnerabilidad en una de las funciones de los smart contractas, diseñadas para representar los derechos de las minorías, fue explotada y usada para dragar 3.6m Ether del balance de TheDAO (alrededor de 150 millones de USD para aquel entonces). 
-
-
-
