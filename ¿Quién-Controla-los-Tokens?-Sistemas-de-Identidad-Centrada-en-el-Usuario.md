@@ -54,7 +54,7 @@ En su manifiesto Allen resaltó el delicado balance entre el derecho a la privac
 Los principios arriba listados han sido incorporados en una serie de iniciativas de identidad centrada en el usuario y en grupos de trabajo a lo largo de los años, tales como “Social Linked Data”, “Rebooting the Web of Trust”, “WebIDs”, y más recientemente en el  “W3C Working Group on Decentralized Identifiers (DIDs)”. El propósito de todas estas iniciativas es proveer estándares abiertos internacionales que desacoplen el proceso de emisión de credenciales y de declaraciones del proceso de verificación de esas declaraciones por parte de un conjunto de actores, lo que elimina muchos de los problemas que tienen las soluciones centradas en el servidor. 
 
 ***
-![History of Identities](https://github.com/sherminvo/TokenEconomyBook/blob/main/imgs/30_HistoryOfIdentities.png) 
+![History of Identities](https://github.com/Token-Economy-Book/SpanishTranslation/blob/main/graphics/30_HistoryOfIdentities_Spanish.png) 
 ***
 
 ### Identidades Centradas en el Usuario utilizando Identificadores Descentralizados
@@ -64,7 +64,7 @@ Las redes de blockchain actualmente ofrecen solo un mínimo grupo de atributos d
 Un Identificador Descentralizado (DID) es un identificador digital único, público y pseudo-anónimo de una persona, empresa u objeto que otorga control personal sobre la identidad digital de uno sin necesidad de instituciones centralizadas que gestionen dichos identificadores.  Para garantizar la independencia de registros centralizados, los DIDs deben tener ciertas propiedades.  Necesitan ser permanentes así no pueden ser reasignados a otras entidades por quien sea que tenga el control. Necesitan ser solubles así todos entienden cómo interactuar con un sujeto identificado con un DID, y necesitan ser verificables criptográficamente.  
 
 ***
-![User-Centric Identities](https://github.com/sherminvo/TokenEconomyBook/blob/main/imgs/29_UserCentricIdentities.png) 
+![User-Centric Identities](https://github.com/Token-Economy-Book/SpanishTranslation/blob/main/graphics/29_UserCentricIdentities_Spanish.png) 
 ***
 
 La infraestructura de llave pública, inherente a los registros distribuidos, permite la registración de DIDs de todos los actores involucrados de una manera públicamente verificable. Cualquier usuario puede crear y registrar un DID cuando activa una nueva billetera de blockchain, lo que crea un par de llaves pública y privada. Cualquiera DID puede ser vinculado a credenciales que son emitidas por otras personas o instituciones atestiguando características especiales del dueño de la identidad (declaraciones que hacen sobre sí mismos), como el nombre, dirección, correo electrónico, edad, títulos, y otras certificaciones como la licencia de conducir. 
