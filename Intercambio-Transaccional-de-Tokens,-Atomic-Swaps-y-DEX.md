@@ -19,7 +19,7 @@ General blockchain interoperability is a solution to the centralization problem,
 La interoperabilidad general de blockchain es una solución al problema de centralización, que actualmente está siendo abordado por proyectos tales como “Cosmos”, “Polkadot”, “Wanchain”, “Chainlink”, “Arc”, “Aion”, and “AVA”. Los Atomic Swaps, son otra solución mucho más viable en lo inmediato.  
 
 ***
-![Atomic Swaps](https://github.com/sherminvo/TokenEconomyBook/blob/main/imgs/24_AtomicSwaps.png)
+![Atomic Swaps](https://github.com/Token-Economy-Book/SpanishTranslation/blob/main/graphics/24_AtomicSwaps_Spanish.png)
 ***
 
 
