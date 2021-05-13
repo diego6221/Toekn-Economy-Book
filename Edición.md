@@ -6,7 +6,7 @@ Segunda edición, Junio 2020. La primera edición fue publicada por BlockchainHu
 * Editor: Token Kitchen, http://token.kitchen, Alte Schönhauserstrasse 9, 10119 Berlin 
 * Diseño: Justyna Zubrycka 
 * Producción: Caroline Helbing
-* Translators: Sebastian Heredia Querro, Martin Bertoni, Guido Aiassa, Jorge Villalba, Agustina Pérez Comenale
+* Translators: Translators: Sebastián Heredia Querro, Martín Bertoni, Guido Aiassa, Agustina Perez Comenale, Fernanda López Pujato
 
 Copyleft 2020, Shermin Voshmgir
 
