@@ -10,7 +10,7 @@ Si bien el concepto de contrato inteligente no es nuevo, las redes de blockchain
 Un contrato inteligente es un contrato auto-ejecutable, formalizado como un software. El código contiene una serie de reglas  con las que las partes del contrato inteligente acuerdan interactuar recíprocamente. Cuando y si se cumplen las reglas predefinidas, el contrato se cumple automáticamente por el consenso de la mayoría en una red de blockchain. Los contratos inteligentes ofrecen mecanismos para gestionar de manera eficiente activos tokenizados y derechos de acceso entre dos o más partes. Uno los puede imaginar como cajas criptográficas que sólo liberan valor o acceso, si y cuando ciertas condiciones específicas se cumplen. Por ello, los contratos inteligentes ofrecen una forma pública y verificable de embeber reglas  de gobernanza y lógicas de negocio en pocas líneas de código, lo que puede ser auditado y cumplido por el consenso de una mayoría en una red P2P.
 
 ***
-![Smart Contracts](https://github.com/sherminvo/TokenEconomyBook/blob/main/imgs/05_SmartContracts.png) 
+![Smart Contracts](https://github.com/Token-Economy-Book/SpanishTranslation/blob/main/graphics/05_SmartContracts_Spanish.png) 
 ***
 
 Un contrato inteligente puede ser invocado por entidades que están dentro (otros contratos inteligentes) o fuera (fuentes de datos externos) de una red de blockchain. Las fuentes de datos externos, llamados “oráculos”, insertan datos que son relevantes para un contrato inteligente y vienen desde el mundo analógico hacia el contrato inteligente. Pueden verificar el cumplimiento del contrato en tiempo real y así ahorrar costos, dado que el cumplimiento normativo y el control ocurren de manera inmediata. Los contratos inteligentes reducen los costos de transacción de la contratación.  Específicamente, reducen los costos de (i) negociar y contrato, (ii) escribirlo, y (iii) cumplirlo. Si se implementan de manera adecuada, los contratos inteligentes podrían ofrecer seguridad transaccional superior a la de los contratos tradicionales, reduciendo los costos de coordinación de auditar y hacer cumplir los contratos. Los contratos inteligentes también esquivan el dilema del principal-agente en una organización, ofreciendo más transparencia y responsabilidad, y reduciendo la burocracia (leer más: Parte 2 - Economía Institucional de las DAOs).
@@ -74,9 +74,9 @@ Si dos personas, digamos Alicia y Roberto, no se conocen y no se confían mutuam
 
 
 ***
-![Buying a second hand car in the Web2](https://github.com/sherminvo/TokenEconomyBook/blob/main/imgs/07_BuyingCarWeb2.png) 
+![Buying a second hand car in the Web2](https://github.com/Token-Economy-Book/SpanishTranslation/blob/main/graphics/07_BuyingCarWeb2_Spanish.png) 
 ***
-![Buying a second hand car in the Web3](https://github.com/sherminvo/TokenEconomyBook/blob/main/imgs/08_BuyingCarWeb3.png) 
+![Buying a second hand car in the Web3](https://github.com/Token-Economy-Book/SpanishTranslation/blob/main/graphics/08_BuyingCarWeb3_Spanish.png) 
 ***
 
 Usando contratos inteligentes, podemos ahora evitar la interferencia manual de ciertas instituciones como el registro automotor, las aseguradoras, y en algunos países, también a los escribanos, si y cuando los ambientes regulatorios lo permiten. Toda computadora corriendo en el protocolo de blockchain podrá chequear si alguien es el legítimo dueño de un auto o no. Robar autos no será tan fácil como lo es hoy una vez que los autos vengan equipados con  llaves digitales que usan contratos inteligentes para controlar accesos.  Algunos procesos automatizados también requerirán la convergencia de contratos inteligentes y fuentes de datos externas tanto de software como de hardware, como sería el caso de fotos tomadas en el garage para monitorear el estado del auto.  Como dueño del auto, podrías incluso usar contratos inteligentes para autorizar a otras personas que lo conduzcan, registrando su identidad de blockchain en el contrato inteligente de tu auto. 
