@@ -14,7 +14,7 @@ El concepto de “blockchain” fue introducido por el white paper de Bitcoin en
 <span style="text-decoration:underline;">Tokens</span>: El término “token” es simplemente una metáfora. Contrariamente a lo que la metáfora podría sugerir, un token no representa un archivo digital que es enviado desde un dispositivo a otro. En cambio, representa una entrada en el registro que pertenece a una dirección de blockchain. Solo la persona que tenga la llave privada para esa dirección puede acceder a los respectivos tokens, usando un software billetera, que actúa como un cliente de la blockchain (leer más: Parte 1 - Seguridad del Token: Criptografía, Billeteras). 
 
 ***
-![Why is it called Blockchain](https://github.com/sherminvo/TokenEconomyBook/blob/main/imgs/01_WhyIsItCalledBlockchain.png)
+![Why is it called Blockchain](https://github.com/Token-Economy-Book/SpanishTranslation/blob/main/graphics/01_WhyIsItCalledBlockchain_Spanish.png)
 ***
 
 <span style="text-decoration:underline;">A diferencia de las bases de datos distribuidas</span>, donde los datos están distribuidos pero gestionados y controlados por una única entidad, las redes de blockchain permiten un control distribuido.  Diferentes personas e instituciones que no se confían mutuamente comparten información sin requerir un administrador central.
@@ -26,7 +26,7 @@ El concepto de “blockchain” fue introducido por el white paper de Bitcoin en
 <span style="text-decoration:underline;">Transacciones de Bitcoin</span>: Cuando se usa la red de Bitcoin, en lugar de que un banco valide transacciones financieras, todas las computadoras de la red verifican sus copias del registro para validar transacciones, y de manera colectiva confirman transacciones por consenso de la mayoría. No se confía en ningún usuario por sobre otro. En lugar de una única tercera parte de confianza validando transacciones a través de sus servidores y por su sola autoridad (voto único), una red de computadoras P2P que corre en un protocolo de blockchain valida las transacciones por consenso (voto de la mayoría).
 
 ***
-![Like Spreadsheet Cloud & Behind The Blockchain Protocol](https://github.com/sherminvo/TokenEconomyBook/blob/main/imgs/17_LikeSpreadsheetCloud_BehindTheBlockchainProtocol.png)
+![Like Spreadsheet Cloud & Behind The Blockchain Protocol](https://github.com/Token-Economy-Book/SpanishTranslation/blob/main/graphics/17_LikeSpreadsheetCloud_BehindTheBlockchainProtocol_Spanish.png)
 ***
 
 El protocolo es una serie de reglas y procesos que definen cómo todo los nodos (anónimos) en la red pueden ponerse de acuerdo en el estado verdadero de la red. El protocolo define cómo los participantes en la red interactúan entre ellos: (i) bajo qué condiciones será válido enviar tokens de A hacia B; (ii) las recompensas económicas por validar transacciones con un token criptográfico; (iii) cómo referenciar identidades y firmar transacciones; y (iv) quién  decide las mejoras de la red.
@@ -48,7 +48,7 @@ El protocolo es una serie de reglas y procesos que definen cómo todo los nodos 
 El desafío subyacente a una red P2P con un conjunto de nodos anónimos es cómo gestionar a los nodos maliciosos dada la ausencia de una parte central que asegure el sistema. Uno debe siempre asumir que habrá actores malos intentando trastocar toda red pública y abierta. ¿Cómo una red distribuida puede acordar  qué datos son correctos o incorrectos, o qué proceso es verdadero y falso dada una configuración que parte de la desconfianza? Esto es conocido como el “Problema de los Generales Bizantinos”. Un nodo malicioso, también llamado un nodo bizantino, puede intencionalmente enviar información incorrecta a todos los demás nodos que participan del proceso de consenso. Las fallas bizantinas son consideradas las más difíciles dentro de una red distribuida. Mecanismos de consenso robustos deben resistir ataques DDoS (Denegación Distribuida de Servicios), ataques sybil[^1] y otros ciber ataques. Antes de la irrupción de Bitcoin, se creía imposible poder alcanzar un consenso entre nodos que no se confían dentro de una red P2P que fuera resistente a ataques y a fallas.
 
 ***
-![Why is it expensive to manipulate blockchain network transactions](https://github.com/sherminvo/TokenEconomyBook/blob/main/imgs/02_WhyExpensiveToManipulateNetworktrans.png)
+![Why is it expensive to manipulate blockchain network transactions](https://github.com/Token-Economy-Book/SpanishTranslation/blob/main/graphics/02_WhyExpensiveToManipulateNetworktrans_Spanish.png)
 ***
 
 Por primera vez en la historia de la computación distribuida, el protocolo de Bitcoin introdujo una solución matemática a este problema con la “Prueba-de-Trabajo”, lo que volvió económicamente desproporcionado el costo de un ataque en relación al beneficio de atacar.  Se dio nacimiento a un nuevo campo de la ciencia sobre los juegos de coordinación económica utilizando herramientas criptográficas, conocido como “Criptoeconomía”. La criptoeconomía puede ser definida como el estudio de la interacción económica en ambientes de falta de confianza, donde cada actor podría potencialmente ser corrupto.  Es interdisciplinaria, y requiere un profundo conocimiento de la criptograafía, la economía, y las redes P2P, y qué motiva a los actores de la red. La infraestructura de llave pública-privada garantiza acceso y control a nuestros tokens de una manera resistente a ataques. Las funciones de hasheo permiten a los nodos verificar transacciones que se hacen en la red. Tanto las funciones de hasheo como la criptografía de llave pública-privada son necesarias para el juego de coordinación económica llamado Prueba-de-Trabajo, para recompensar a los mineros que agregan bloques con transacciones genuinas al registro. Los mecanismos criptoeconómicos proveen un equilibro de seguridad que vuelven a la red resistente a ataques, resistente a fallas y resistente a la colusión. Esto permite a los nodos anónimos de la red acordar en el estado de todas las interacciones en la red. La red de Bitcoin es la primera aplicación práctica de la criptoeconomía. Produce una  “confianza por matemática” antes que una “confianza por contrato legal”.
@@ -56,7 +56,7 @@ Por primera vez en la historia de la computación distribuida, el protocolo de B
 Sin embargo, la seguridad depende en la resiliencia de las asunciones sobre cómo reaccionarán los actores de la red frente a los incentivos económicos. Las reacciones de las personas frente a los incentivos ha sido un campo de estudio de la Economía desde tiempo atrás. De allí que la criptoeconomía tenga mucho en común con el diseño de mecanismos, un campo de la economía relacionado a la teoría de los juegos. La teoría de los juegos analiza las interacciones estratégicas, que son conocidas como juegos. Trata de entender cuál sería la mejor estrategia para cada jugador si ambos jugadores deciden maximizar el mejor resultado común. El diseño de mecanismos define resultados deseados  y trabaja hacia atrás creando un juego que incentiva a los jugadores en dirección al resultado deseado. Mientras la criptoeconomía es interdisciplinaria, es una disciplina desarrollada predominantemente en la comunidad de la ciencia de la computación. Pareciera que hay bastante espacio para incorporar métodos de otras disciplinas económicas, y de otras disciplinas (más de esto en el próximo capítulo y en la Parte 4 - Tokens guiados por Propósito). 
 
 ***
-![Why is the ledger tamper resistant?](https://github.com/sherminvo/TokenEconomyBook/blob/main/imgs/14b_WhyIsLedgerTamperResistant.png)
+![Why is the ledger tamper resistant?](https://github.com/Token-Economy-Book/SpanishTranslation/blob/main/graphics/14b_WhyIsLedgerTamperResistant_Spanish.png)
 ***
 
 “Prueba-de-Trabajo” (PdT) es el mecanismo de consenso usado en la red de Bitcoin y en otras redes de blockchain similares para garantizar que una transacción enviada a la red es válida. El mecanismo desarrolla la asunción de que todos los nodos de la red podrían potencialmente ser corruptos, y que el menor denominador común es el dinero. La Prueba-de-Trabajo está diseñada de modo tal que (i) si quieres gastar dinero y respetas las reglas, puedes ganar tokens de la red; (ii) no es negocio hacer trampa porque el minado requiere un hardware para computadoras específico y consume grandes cantidades de energía. 
@@ -70,7 +70,7 @@ Encontrar el valor correcto del hash requiere cierto trabajo, en la forma de tie
 La “dificultad” de encontrar el valor del hash, para poder crear un bloque, se ajusta de tiempo en tiempo para mantener un tiempo entre bloques de 10 minutos [^2] relativamente constante. Se ajusta periódicamente como una función de cuánto poder de hasheo ha sido desplegado en la red por los mineros. Si los bloques se crean en menos de 10 minutos, la dificultad aumenta. Igualmente, si un bloque demora más de 10 minutos en ser creado, la  dificultad decrece. La dificultad también aumenta con el nivel de competencia -el número de otras computadoras compitiendo por validar un bloque.
 
 ***
-![How Blocks Of Transactions Are Chained](https://github.com/sherminvo/TokenEconomyBook/blob/main/imgs/14a_HowBlocksOfTransactionsAreChained.png)
+![How Blocks Of Transactions Are Chained](https://github.com/Token-Economy-Book/SpanishTranslation/blob/main/graphics/14a_HowBlocksOfTransactionsAreChained_Spanish.png)
 ***
 
 
@@ -106,7 +106,7 @@ Un ataque exitoso del 51% podría tener el siguiente impacto: te permitiría (i)
 Lo que un ataque del 51% no puede hacer es cambiar transacciones existentes o falsas, como (i) modificando la cantidad enviada en una transacción existente; (ii) modificando al destinatario de una transacción; o (iii) enviar los tokens de alguien sin su permiso. Esto se debe a que todas las transacciones tienen que ser firmadas por la llave privada del tenedor del token, la que no puede ser revelada por un acuerdo de la mayoría de la red. Modificar un detalle de una transacción existente volvería  “ilegítimo” el registro, dado que una transacción sin firma válida estaría incluida en el registro. Este tipo de modificaciones sólo puede hacerse forzando la llave privada de un actor de la red. Alternativamente, uno podría atacar el algoritmo criptográfico (SHA) para atacar a la red, que es la razón  por la cual es esencial usar algoritmos criptográficos que sean propiamente testeados contra ataques (leer más: Seguridad del Token: Criptografía).  
 
 ***
-![Blockchain Concept](https://github.com/sherminvo/TokenEconomyBook/blob/main/imgs/11_BlockchainConcept.png)
+![Blockchain Concept](https://github.com/Token-Economy-Book/SpanishTranslation/blob/main/graphics/11_BlockchainConcept_Spanish.png)
 ***
 
 
@@ -196,7 +196,7 @@ Además, si bien por ejemplo los consensos basados en “Prueba-de-Participació
 No está claro cómo la tecnología evolucionará en el mediano y largo plazo. Algunos predicen que los registros permisionados sufrirán la misma suerte que las “Intranets” a principios de 1900, cuando empresas privadas construyeron sus propias redes, porque estaban asustadas de conectarse con la Internet pública. Con el tiempo, este temor desapareció. Hoy, las Intranets son usadas en muy pocos casos, cuando se requieren niveles de seguridad altos. 
 
 ***
-![Public Ledgers vs. Private Ledgers](https://github.com/sherminvo/TokenEconomyBook/blob/main/imgs/12_PublicPrivateLedgers.png)
+![Public Ledgers vs. Private Ledgers](https://github.com/Token-Economy-Book/SpanishTranslation/blob/main/graphics/12_PublicPrivateLedgers_Spanish.png)
 ***
 
 
