@@ -11,7 +11,7 @@ En este contexto, las redes de blockchain aparecen como una fuerza que empuja ha
 Mientras que la Web2 fue una revolución de la interfaz de usuario de la Internet, la Web3 es una revolución del modo administrador. La Web3 reinventa el cableado de la Internet en el modo servidor, combinando las funciones de sistema de Internet con las funciones de sistema de las computadoras. Sin embargo, el usuario promedio de Internet no verá cambios en su interfaz. La Web3 representa una serie de protocolos, con registros distribuidos como su columna vertebral. Los datos son gestionados de manera colaborativa por una red de computadoras P2P. Las reglas de administración están formalizadas en protocolos y aseguradas por un consenso mayoritario de todos los participantes de la red, que están incentivados con tokens de la red por sus actividades. El protocolo formaliza las reglas de gobierno de la red y asegura que personas que no se conocen o no se confían recíprocamente puedan contactarse y realizar acuerdos en la Web. Mientras que manipular los datos de un servidor es análogo a ingresar forzadamente a una casa, cuya seguridad está dada por una reja y un sistema de alarma, la Web3 está diseñada de un modo que obliga a tener que entrar simultáneamente y por la fuerza en muchas casas repartidas por todo el planeta, cada una de ellas con su propia reja y sistema de alarma. Esto puede ser hecho, pero es costosamente prohibitivo. 
 
 ***
-![History of the Web](https://github.com/sherminvo/TokenEconomyBook/blob/main/imgs/13_HistroyOfWeb.png) 
+![History of the Web](https://github.com/Token-Economy-Book/SpanishTranslation/blob/main/graphics/13_HistroyOfWeb_Spanish.png) 
 ***
 
 
@@ -30,7 +30,7 @@ La red de Bitcoin introdujo un mecanismo para que cada nodo de la red pueda envi
 Las redes de blockchain, como la red de Bitcoin, son sólo la columna vertebral y el punto de partida, pero no son el único bloque fundacional de esta nueva Web descentralizada. La arquitectura de la Web3 apalanca el estado universal colectivamente mantenido para una computación descentralizada. Aplicaciones descentralizadas pueden gestionar algunos o todos sus contenidos y lógica en una red de blockchain o en otro registro distribuido. Pero también se necesitan otros protocolos. Muchos desarrolladores han comenzado a construir redes alternativas de blockchains, y también protocolos complementarios para la Web3.
 
 ***
-![Centralized vs. Distributed](https://github.com/sherminvo/TokenEconomyBook/blob/main/imgs/10_ClientServer_DataMon_DataDemocracy_CentralizedvsDistributed.png)
+![Centralized vs. Distributed](https://github.com/Token-Economy-Book/SpanishTranslation/blob/main/graphics/10_ClientServer_DataMon_DataDemocracy_CentralizedvsDistributed_Spanish.png)
 ***
 
 ## Otros protocolos de la Web3
