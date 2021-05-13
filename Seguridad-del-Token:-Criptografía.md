@@ -19,7 +19,7 @@ Los primeros intentos de encriptar comunicaciones electrónicas se concentraron 
 La red de Bitcoin principalmente usa hashes en combinación con firmas digitales para proteger la integridad de los datos que fluyen a través de la red usando criptografía de llave pública. Los hashes además son usados en el contexto del protocolo de consenso “Prueba-de-Trabajo”. Bitcoin usa la criptografía de llave pública, y más específicamente, la criptografía de curva elíptica. Por favor tener en cuenta que otras redes alternativas de blockchain y otros sistemas de registro distribuido pueden usar herramientas  de criptografía alternativas a las descriptas abajo. Algunas redes de blockchain, por ejemplo, usan criptografía que preserva más la privacidad, como el caso de “[Zcash](https://z.cash/)” (zero-knowledge proofs)[^2] y “[Monero](https://getmonero.org/)” (firmas anillo)[^3]. La misma comunidad de Bitcoin está actualmente buscando formas alternativas de firma criptográfica que resguarden más la privacidad y sean más escalables, como por ejemplo, con “Mimblewimble” (leer más: Parte 3: Tokens de Privacidad).
 
 ***
-![Symmetric Cryptography vs. Assymmetric Cryptography](https://github.com/sherminvo/TokenEconomyBook/blob/main/imgs/06_Symmetric_Assymmetric_Cryptography.png)
+![Symmetric Cryptography vs. Assymmetric Cryptography](https://github.com/Token-Economy-Book/SpanishTranslation/blob/main/graphics/06_Symmetric_Assymmetric_Cryptography.png)
 ***
 
 ## Criptografía de Llave Pública
@@ -58,7 +58,7 @@ El efecto avalancha describe el comportamiento de una función matemática cuand
 El hashing en la red de Bitcoin es parte del siguiente proceso: (i) codificación de direcciones de billeteras; (ii) codificación de transacciones entre billeteras; (iii) verificando y validando los balances de cuentas de las billeteras; y para el mecanismo de consenso (iv) Prueba-de-Trabajo.
 
 ***
-![Generation of keys and adresses](https://github.com/sherminvo/TokenEconomyBook/blob/main/imgs/04_GenerationKeysAdresses_alt.png)
+![Generation of keys and addresses](https://github.com/Token-Economy-Book/SpanishTranslation/blob/main/graphics/04_GenerationKeysAdresses_Spanish.png)
 ***
 
 ## Billeteras & Firmas Digitales
@@ -87,7 +87,7 @@ Al momento de escribir este libro, la mayoría de las billeteras sólo permiten 
 Las firmas anillo, firmas colectivas, y “Shamir’s Secret Sharing” [^7] son todos ejemplos de algoritmos criptográficos alternativos que necesitan ser habilitados por las redes de blockchain y soportados por los softwares billeteras para permitir firmas conjuntas de transacciones. Las firmas conjuntas son un atributo importante que permite transferir la custodia de tus tokens a alguien más (un banco o una casa de cambio gestiona tus tokens), la gestión colectiva de activos (en casos de condominio sobre el mismo activo, o gestión colectiva como en el caso de una DAO) o la recuperación social de llaves. Los capítulos 3 y 4 de este libro se adentrarán profundamente en aspectos de gestión de tokens y casos de uso de tokens, en los cuales el rol de las billeteras se volverá más tangible. 
 
 ***
-![DigitalSignatures BlockchainWallets](https://github.com/sherminvo/TokenEconomyBook/blob/main/imgs/03_DigitalSignatures_BlockchainWallets.png)
+![DigitalSignatures BlockchainWallets](https://github.com/Token-Economy-Book/SpanishTranslation/blob/main/graphics/03_DigitalSignatures_BlockchainWallets_Spanish.png)
 ***
 ## Enviando Tokens
 
