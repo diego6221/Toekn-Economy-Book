@@ -202,4 +202,4 @@ La creación de un mecanismo en un problema de optimación que tiene como objeti
 ### Footnotes
 
 [^1]:
-Cryptoeconomic primitives can be defined as cryptographic tools, standards, and building blocks that allow us to build decentralized economic applications. Simpler primitives are cryptographic tokens. Higher-level primitives have a regulatory nature and include consensus mechanisms, token-curated registries, stable tokens, or prediction markets.
+Los primitivos criptoeconómicos se definen como herramientas, estándares y pilares criptoeconómicos que nos permiten crear aplicaciones económicas descentralizadas. Los primitivos más simples son los tokens criptográficos. Los primitivos de alto nivel tienen una naturaleza regulatoria e incluyen mecanismos de consenso, registros curados de token, tokens estables o mercados de predicción.
