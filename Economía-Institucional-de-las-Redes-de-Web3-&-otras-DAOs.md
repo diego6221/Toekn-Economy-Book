@@ -159,6 +159,7 @@ Caplan, Bryan: “From Friedman to Wittman: The Transformation of Chicago Politi
 ***
 
 ### Notas
+[^0]:
 Los siguientes dos capítulos están parcialmente basados en un artículo de revista que fue publicado por la autora en 2017: Voshmgir, Shermin “Disruptando la gobernanza con blockchains y contratos inteligentes”, Journal for Strategic Change. Una versión anterior fue publicada en blockchainhub: https://blockchainhub.net/blog/blog/disrupting-organisations-with-blockchain/ and Voshmgir, S.; Zargham, M.: “Foundations of Cryptoeconomic Systems,” Cryptoeconomic Systems Journal, March 2020, retreived from: https://assets.pubpub.org/sy02t720/31581340240758.pdf
 
 [^1]:
