@@ -4,6 +4,7 @@ Segunda edición, Junio 2020. La primera edición fue publicada por BlockchainHu
 
 **Autora**: Shermin Voshmgir<br>
 **Traductoras**: Translators: Sebastián Heredia Querro, Martín Bertoni, Guido Aiassa, Agustina Perez Comenale, Fernanda López Pujato<br>
+
 **BibTeX**:
 @book{voshmgir2020token,
   title={Token Economy: How the Web3 reinvents the Internet},
