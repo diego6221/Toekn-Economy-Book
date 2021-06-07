@@ -51,7 +51,7 @@ Las redes de blockchain y los contratos inteligentes no pueden acceder a datos q
 
 > Oráculos basados en el consenso: obtienen sus datos a través del consenso humano y mercados de predicciones como “Augur” o “Gnosis”. Sin embargo, usar sólo una fuente de información puede no ser confiable, dado que los mercados pueden ser manipulados; sistemas de rankeo de oráculos podrían ser necesarios. Una combinación de diferentes servicios de oráculos puede aumentar aún más la confiabilidad en los datos si, por ejemplo, tres de cinco oráculos pueden determinar el resultado de un evento.
 
-El principal desafío con los oráculos es que la gente necesita confiar en estas fuentes externas de información, sea que vengan de un sitio de Internet o de un sensor. Como los oráculos son servicios prestados por terceros que no son parte del mecanismo de consenso de una blockchain, no están sujetos a los mecanismos subyacentes de seguridad que tienen estas infraestructuras públicas.  Uno podría recrear ataques de tipo “hombre en el medio” situándose entre contratos y oráculos.  Asegurar la robustez de esta  “segunda capa” de la máxima importancia. Diferentes herramientas criptográficas confiables y técnicas de computación pueden ser usadas para resolver estos problemas. Si la seguridad del oráculo no está garantizada adecuadamente, será un freno para la implementación masiva de los contratos inteligentes. 
+El principal desafío con los oráculos es que la gente necesita confiar en estas fuentes externas de información, sea que vengan de un sitio de Internet o de un sensor. Como los oráculos son servicios prestados por terceros que no son parte del mecanismo de consenso de una blockchain, no están sujetos a los mecanismos subyacentes de seguridad que tienen estas infraestructuras públicas.  Uno podría recrear ataques de tipo “hombre en el medio”[^3] situándose entre contratos y oráculos.  Asegurar la robustez de esta  “segunda capa” de la máxima importancia. Diferentes herramientas criptográficas confiables y técnicas de computación pueden ser usadas para resolver estos problemas. Si la seguridad del oráculo no está garantizada adecuadamente, será un freno para la implementación masiva de los contratos inteligentes. 
 
 Es importante resaltar que un contrato inteligente no espera que los datos de una fuente externa comiencen a fluir al sistema. El contrato debe ser invocado, lo que significa que uno tiene que gastar recursos de la red para traer los datos del mundo analógico. Esto genera costos de transacción de la red. En el caso de Ethereum, este es el costo del “Gas”. 
 
@@ -153,7 +153,7 @@ El problema de "Principal y Agente" ocurre cuando alguien (el agente) tiene el p
 Al día de hoy el desafío con los micropagos está en que los fee cargados por los proveedores de estos servicios son muchas veces mayores al micropago en sí mismo.
 
 [^3]:
-In computer security, “man-in-the-middle attacks” refer to incidents where an attacker relays and possibly alters the communication between two parties who believe they are directly or secretly communicating with each other.
+En seguridad informática, los “ataques del hombre del medio” refieren al incidente donde un atacante transmite, y posiblemente altera, la comunicación ente dos partes que creen están directa o secretamente comunicándose entre ellos.
 
 [^4]:
 Las firmas ciegas son firmas digitales que disfrazan el contenido de un mensaje que ha sido firmado. Pueden ser verificadas contra el mensaje original como cualquier firma digital. 
