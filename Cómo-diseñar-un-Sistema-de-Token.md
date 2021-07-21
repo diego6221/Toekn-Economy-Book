@@ -143,13 +143,13 @@ Para abarcar todos los aspectos mencionados con anterioridad, uno necesita un eq
 ### Footnotes
 
 [^1]:
-http://tokenengineering.wikidot.com/
+Token Engineering: http://tokenengineering.wikidot.com/
 
 [^2]:
-https://en.wikipedia.org/w/index.php?title=Design&oldid=943088539](https://en.wikipedia.org/w/index.php?title=Design&oldid=943088539
+Design: https://en.wikipedia.org/w/index.php?title=Design&oldid=943088539](https://en.wikipedia.org/w/index.php?title=Design&oldid=943088539
 
 [^3]:
-https://en.wikipedia.org/w/index.php?title=Engineering&oldid=943637749](https://en.wikipedia.org/w/index.php?title=Engineering&oldid=943637749
+Engineering: https://en.wikipedia.org/w/index.php?title=Engineering&oldid=943637749](https://en.wikipedia.org/w/index.php?title=Engineering&oldid=943637749
 
 [^4]:
 “Complex systems theory investigates the relationships between system parts with the system’s collective behaviors and the system’s environment. Complex systems differ from other systems, in that the system behavior cannot be easily inferred from the state changes induced by network actors. Properties such as emergence, nonlinearity, adaptation, spontaneous order, and feedback loops are typical to complex systems. Modeling approaches that ignore such difficulties will produce models that are not useful for modeling and steering those systems.” Voshmgir, S.; Zargham, M.: “Foundations of Cryptoeconomic Systems” (see references)
