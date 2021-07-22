@@ -105,7 +105,7 @@ Un importante cuello de botella será la aparición de billeteras con capacidad 
 
 
 
-### Referencias del Capítulo y Lecturas Complementarias. 
+### Referencias del Capítulo y Lecturas Complementarias
 
 * Atkeson, Andrew; Kehoe, Patrick J.: Deflation and Depression: Is There an Empirical Link?”, Federal Reserve Bank of Minneapolis, January 2004, retrieved from: https://www.minneapolisfed.org/research/sr/sr331.pdf
 * Dixon, Chris: “Crypto Tokens: A Breakthrough in Open Network Design”, Jun 1, 2017, retrieved from: https://medium.com/@cdixon/crypto-tokens-a-breakthrough-in-open-network-design-e600975be2ef
@@ -146,7 +146,7 @@ Este capitulo está basado en textos que han sido publicados antes, originalment
 [https://www.derstandard.at/story/2000081901719/warum-bitcoin-keine-waehrung-ist](https://www.derstandard.at/story/2000081901719/warum-bitcoin-keine-waehrung-ist)<span style="text-decoration:underline;"> </span>Sinner, Martin;  Harlinghausen, Curt Simon;  Voshmgir, Shermin; Solmecke,Christian;  Smith, Monika: “ Business Purpose Design Business Purpose Design”, 2018 Santiago Berlin GmbH.
 
 [^2]:
-[https://en.wikipedia.org/wiki/Money](https://en.wikipedia.org/wiki/Money)   
+Wikipedia:[https://en.wikipedia.org/wiki/Money](https://en.wikipedia.org/wiki/Money)   
 
 [^2]:
 DeFi es el acrónimo de “Decentralized Finance”, expresión que se corresponde con “Finanzas Descentralizadas” en inglés. 
