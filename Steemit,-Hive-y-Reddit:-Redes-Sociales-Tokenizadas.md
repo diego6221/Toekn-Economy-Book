@@ -168,7 +168,7 @@ Las pruebas de conocimiento cero son estrategias que permiten a una parte verifi
 La privacidad por diseño se refiere a los esfuerzos que se llevan a cabo al diseñar un sistema para proteger la privacidad en todas las etapas posibles, en vez de ignorar la privacidad y tratar de encontrar maneras de implementarla luego.
 
 [^6]:
-[https://redditmetrics.com/history](https://redditmetrics.com/history)
+Reddit Metrics:[https://redditmetrics.com/history](https://redditmetrics.com/history)
 
 [^7]:
-[https://www.alexa.com/siteinfo/reddit.com](https://www.alexa.com/siteinfo/reddit.com)
+Alexa Reddit Statistics: [https://www.alexa.com/siteinfo/reddit.com](https://www.alexa.com/siteinfo/reddit.com)
