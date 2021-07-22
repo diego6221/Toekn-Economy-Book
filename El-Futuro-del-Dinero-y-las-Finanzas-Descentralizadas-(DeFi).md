@@ -148,5 +148,5 @@ Este capitulo está basado en textos que han sido publicados antes, originalment
 [^2]:
 Wikipedia:[https://en.wikipedia.org/wiki/Money](https://en.wikipedia.org/wiki/Money)   
 
-[^2]:
+[^3]:
 DeFi es el acrónimo de “Decentralized Finance”, expresión que se corresponde con “Finanzas Descentralizadas” en inglés. 
